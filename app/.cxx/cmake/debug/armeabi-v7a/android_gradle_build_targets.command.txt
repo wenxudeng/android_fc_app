@@ -1,0 +1,8 @@
+Executable : D:\devTools\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+E:\myGit\android_fc_app\app\.cxx\cmake\debug\armeabi-v7a
+FacePreprocessSo
+tensorflow_demo
+jvmArgs : 
+

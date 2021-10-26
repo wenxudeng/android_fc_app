@@ -1,0 +1,91 @@
+[
+{
+  "directory": "E:/myGit/android_fc_app/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\devTools\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IE:/myGit/android_fc_app/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\imageutils_jni.cc.o -c E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\imageutils_jni.cc",
+  "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\imageutils_jni.cc"
+},
+
+{
+  "directory": "E:/myGit/android_fc_app/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\devTools\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IE:/myGit/android_fc_app/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\object_tracking\\frame_pair.cc.o -c E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\frame_pair.cc",
+  "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\frame_pair.cc"
+},
+
+{
+  "directory": "E:/myGit/android_fc_app/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\devTools\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IE:/myGit/android_fc_app/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\object_tracking\\image_neon.cc.o -c E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\image_neon.cc",
+  "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\image_neon.cc"
+},
+
+{
+  "directory": "E:/myGit/android_fc_app/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\devTools\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IE:/myGit/android_fc_app/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\object_tracking\\keypoint_detector.cc.o -c E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\keypoint_detector.cc",
+  "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\keypoint_detector.cc"
+},
+
+{
+  "directory": "E:/myGit/android_fc_app/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\devTools\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IE:/myGit/android_fc_app/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\object_tracking\\logging.cc.o -c E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\logging.cc",
+  "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\logging.cc"
+},
+
+{
+  "directory": "E:/myGit/android_fc_app/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\devTools\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IE:/myGit/android_fc_app/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\object_tracking\\object_detector.cc.o -c E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\object_detector.cc",
+  "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\object_detector.cc"
+},
+
+{
+  "directory": "E:/myGit/android_fc_app/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\devTools\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IE:/myGit/android_fc_app/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\object_tracking\\object_tracker.cc.o -c E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\object_tracker.cc",
+  "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\object_tracker.cc"
+},
+
+{
+  "directory": "E:/myGit/android_fc_app/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\devTools\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IE:/myGit/android_fc_app/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\object_tracking\\object_tracker_jni.cc.o -c E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\object_tracker_jni.cc",
+  "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\object_tracker_jni.cc"
+},
+
+{
+  "directory": "E:/myGit/android_fc_app/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\devTools\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IE:/myGit/android_fc_app/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\object_tracking\\optical_flow.cc.o -c E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\optical_flow.cc",
+  "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\optical_flow.cc"
+},
+
+{
+  "directory": "E:/myGit/android_fc_app/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\devTools\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IE:/myGit/android_fc_app/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\object_tracking\\time_log.cc.o -c E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\time_log.cc",
+  "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\time_log.cc"
+},
+
+{
+  "directory": "E:/myGit/android_fc_app/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\devTools\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IE:/myGit/android_fc_app/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\object_tracking\\tracked_object.cc.o -c E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\tracked_object.cc",
+  "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\tracked_object.cc"
+},
+
+{
+  "directory": "E:/myGit/android_fc_app/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\devTools\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IE:/myGit/android_fc_app/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\object_tracking\\utils_neon.cc.o -c E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\utils_neon.cc",
+  "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\utils_neon.cc"
+},
+
+{
+  "directory": "E:/myGit/android_fc_app/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\devTools\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IE:/myGit/android_fc_app/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\rgb2yuv.cc.o -c E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\rgb2yuv.cc",
+  "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\rgb2yuv.cc"
+},
+
+{
+  "directory": "E:/myGit/android_fc_app/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\devTools\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dtensorflow_demo_EXPORTS -IE:/myGit/android_fc_app/app/src/main/jni  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB                     -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing                     -fPIE -Oz -DNDEBUG  -fPIC   -o tensorflow_demo\\CMakeFiles\\tensorflow_demo.dir\\yuv2rgb.cc.o -c E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\yuv2rgb.cc",
+  "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\yuv2rgb.cc"
+},
+
+{
+  "directory": "E:/myGit/android_fc_app/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\devTools\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DFacePreprocessSo_EXPORTS -IE:/myGit/android_fc_app/app/src/main/jni/../jni/opencv/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -s -O3 -Wall -fPIC   -o face_align\\CMakeFiles\\FacePreprocessSo.dir\\JniFacePreprocess.cpp.o -c E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\face_align\\JniFacePreprocess.cpp",
+  "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\face_align\\JniFacePreprocess.cpp"
+}
+]

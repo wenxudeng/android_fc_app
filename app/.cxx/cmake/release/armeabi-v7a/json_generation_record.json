@@ -1,0 +1,134 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 21 min SDK version: armeabi-v7a",
+    "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "No CMake version was specified in build.gradle. Using default version 3.10.2.",
+    "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\devTools\\Android\\Sdk\\build-tools\\28.0.3\\package.xml",
+    "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\devTools\\Android\\Sdk\\build-tools\\29.0.2\\package.xml",
+    "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\devTools\\Android\\Sdk\\build-tools\\30.0.2\\package.xml",
+    "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\devTools\\Android\\Sdk\\build-tools\\30.0.3\\package.xml",
+    "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\devTools\\Android\\Sdk\\cmake\\3.10.2.4988404\\package.xml",
+    "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\devTools\\Android\\Sdk\\emulator\\package.xml",
+    "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\devTools\\Android\\Sdk\\extras\\google\\Android_Emulator_Hypervisor_Driver\\package.xml",
+    "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\devTools\\Android\\Sdk\\ndk-bundle\\package.xml",
+    "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\devTools\\Android\\Sdk\\ndk\\21.1.6352462\\package.xml",
+    "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\devTools\\Android\\Sdk\\patcher\\v4\\package.xml",
+    "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\devTools\\Android\\Sdk\\platform-tools\\package.xml",
+    "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\devTools\\Android\\Sdk\\platforms\\android-28\\package.xml",
+    "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\devTools\\Android\\Sdk\\platforms\\android-30\\package.xml",
+    "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\devTools\\Android\\Sdk\\sources\\android-30\\package.xml",
+    "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\devTools\\Android\\Sdk\\system-images\\android-30\\google_apis\\x86\\package.xml",
+    "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing D:\\devTools\\Android\\Sdk\\tools\\package.xml",
+    "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027D:\\devTools\\Android\\Sdk\\cmake\\3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027E:\\myGit\\android_fc_app\\app\\.cxx\\cmake\\release\\armeabi-v7a\\android_gradle_build.json\u0027 was up-to-date",
+    "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  }
+]

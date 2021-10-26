@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "D:\\devTools\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\CMakeLists.txt",
+    "D:\\devTools\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake",
+    "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\face_align\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\devTools\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\myGit\\android_fc_app\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\devTools\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"E:\\myGit\\android_fc_app\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "FacePreprocessSo-Debug-armeabi-v7a": {
+      "artifactName": "FacePreprocessSo",
+      "buildCommand": "D:\\devTools\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\myGit\\android_fc_app\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" FacePreprocessSo",
+      "abi": "armeabi-v7a",
+      "output": "E:\\myGit\\android_fc_app\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libFacePreprocessSo.so"
+    },
+    "tensorflow_demo-Debug-armeabi-v7a": {
+      "artifactName": "tensorflow_demo",
+      "buildCommand": "D:\\devTools\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\myGit\\android_fc_app\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" tensorflow_demo",
+      "abi": "armeabi-v7a",
+      "output": "E:\\myGit\\android_fc_app\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libtensorflow_demo.so"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+# ninja log v5
+2	1505	649248493	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/imageutils_jni.cc.o	52f31d7f3a6d646e
+75	2054	649248494	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/object_tracking/logging.cc.o	d0362a6b8f484c95
+155	2314	649248494	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/object_tracking/image_neon.cc.o	4628ec28d7408ded
+246	2460	649248495	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/object_tracking/keypoint_detector.cc.o	3b54461f781c10fc
+351	2592	649248495	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/object_tracking/frame_pair.cc.o	a7a3460386e89ef7
+851	2780	649248495	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/object_tracking/time_log.cc.o	a8ab72d91bbdaeaa
+2315	2931	649248495	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/rgb2yuv.cc.o	ee8cd9b84e18dac
+705	3150	649248495	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/object_tracking/object_detector.cc.o	ddaefe8a4065187e
+2460	3168	649248496	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/yuv2rgb.cc.o	4bc6db7722bec35c
+539	3486	649248496	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/object_tracking/object_tracker_jni.cc.o	b5794f1346e17d20
+1317	3829	649248496	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/object_tracking/optical_flow.cc.o	cc348c606a3e33e5
+439	3932	649248496	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/object_tracking/object_tracker.cc.o	461bb8986732a026
+2057	3984	649248496	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/object_tracking/utils_neon.cc.o	6e7b8beacafbcb60
+1508	4035	649248496	tensorflow_demo/CMakeFiles/tensorflow_demo.dir/object_tracking/tracked_object.cc.o	7711ed3354fbd41b
+4035	4710	649248497	E:/myGit/android_fc_app/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libtensorflow_demo.so	3f661b3fd989052c
+2592	5113	649248497	face_align/CMakeFiles/FacePreprocessSo.dir/JniFacePreprocess.cpp.o	89c96a1bd2e1ba1a
+5115	5385	649248498	E:/myGit/android_fc_app/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libFacePreprocessSo.so	32bedfb3ba4ccb0c

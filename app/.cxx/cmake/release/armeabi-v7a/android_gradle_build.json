@@ -1,0 +1,235 @@
+{
+  "stringTable": {
+    "0": "E:/myGit/android_fc_app/app/.cxx/cmake/release/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dtensorflow_demo_EXPORTS -IE:/myGit/android_fc_app/app/src/main/jni -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -mfloat-abi=softfp -mfpu=neon -DSTANDALONE_DEMO_LIB -std=c++11 -fno-exceptions -fno-rtti -O2 -Wno-narrowing -fPIE -Oz -DNDEBUG -fPIC",
+    "2": "--target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/devTools/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DFacePreprocessSo_EXPORTS -IE:/myGit/android_fc_app/app/src/main/jni/../jni/opencv/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -Oz -DNDEBUG -s -O3 -Wall -fPIC",
+    "3": "null"
+  },
+  "buildFiles": [
+    "D:\\devTools\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\CMakeLists.txt",
+    "D:\\devTools\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake",
+    "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\CMakeLists.txt",
+    "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\face_align\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\devTools\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\myGit\\android_fc_app\\app\\.cxx\\cmake\\release\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\devTools\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"E:\\myGit\\android_fc_app\\app\\.cxx\\cmake\\release\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "FacePreprocessSo-Release-armeabi-v7a": {
+      "buildCommand": "D:\\devTools\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\myGit\\android_fc_app\\app\\.cxx\\cmake\\release\\armeabi-v7a\" FacePreprocessSo",
+      "buildType": "release",
+      "toolchain": "3161458089",
+      "abi": "armeabi-v7a",
+      "artifactName": "FacePreprocessSo",
+      "files": [
+        {
+          "src": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\face_align\\JniFacePreprocess.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\face_align\\FacePreprocess.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "E:\\myGit\\android_fc_app\\app\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libFacePreprocessSo.so"
+    },
+    "tensorflow_demo-Release-armeabi-v7a": {
+      "buildCommand": "D:\\devTools\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\myGit\\android_fc_app\\app\\.cxx\\cmake\\release\\armeabi-v7a\" tensorflow_demo",
+      "buildType": "release",
+      "toolchain": "3161458089",
+      "abi": "armeabi-v7a",
+      "artifactName": "tensorflow_demo",
+      "files": [
+        {
+          "src": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\CMakeLists.txt",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\imageutils_jni.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\frame_pair.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\image_neon.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\keypoint_detector.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\logging.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\object_detector.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\object_tracker.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\object_tracker_jni.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\optical_flow.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\time_log.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\tracked_object.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\utils_neon.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\rgb2yuv.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\yuv2rgb.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\config.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\flow_cache.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\frame_pair.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\geom.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\gl_utils.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\image-inl.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\image.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\image_data.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\image_utils.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\integral_image.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\jni_utils.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\keypoint.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\keypoint_detector.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\logging.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\object_detector.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\object_model.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\object_tracker.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\optical_flow.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\sprite.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\time_log.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\tracked_object.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\object_tracking\\utils.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\rgb2yuv.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "E:\\myGit\\android_fc_app\\app\\src\\main\\jni\\tensorflow_demo\\yuv2rgb.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "E:\\myGit\\android_fc_app\\app\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libtensorflow_demo.so"
+    }
+  },
+  "toolchains": {
+    "3161458089": {
+      "cppCompilerExecutable": "D:\\devTools\\Android\\Sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cc",
+    "cpp"
+  ]
+}
